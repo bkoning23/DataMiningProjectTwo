@@ -1,3 +1,13 @@
+/* Brendan Koning
+ * Project 2
+ * Kmeans.java
+ * 3/24/2016
+ * 
+ * Program that implements Kmeans clustering.
+ */
+
+
+
 package projectTwo;
 
 import java.io.*;
